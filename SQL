@@ -1,1 +1,2 @@
 select * from tblemployee where fldemployeename like '%Maria%'
+select + from tblcountry where fldcountryname like '%Bel%'
